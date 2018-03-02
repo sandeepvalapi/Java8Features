@@ -1,4 +1,4 @@
-package com.sandeep.java8;
+package com.sandeep.java8.clockutils;
 
 import java.time.Clock;
 

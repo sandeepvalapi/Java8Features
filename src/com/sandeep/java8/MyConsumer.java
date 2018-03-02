@@ -1,3 +1,4 @@
+package com.sandeep.java8;
 import java.util.function.Consumer;
 
 public class MyConsumer implements Consumer<Integer> {
