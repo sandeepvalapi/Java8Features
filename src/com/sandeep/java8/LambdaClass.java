@@ -10,7 +10,7 @@ public class LambdaClass {
 		Interface1 i1 = (s) -> System.out.println("Hi," + s);
 
 		i1.method1("in my lambda class");
-		
+
 		i2.method2();
 	}
 
