@@ -1,4 +1,4 @@
-package com.sandeep.java8;
+package com.sandeep.java8.interfaces;
 
 public class MyClass implements Interface1, Interface2 {
 	@Override

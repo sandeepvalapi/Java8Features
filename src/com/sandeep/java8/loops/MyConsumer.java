@@ -1,4 +1,4 @@
-package com.sandeep.java8;
+package com.sandeep.java8.loops;
 import java.util.function.Consumer;
 
 public class MyConsumer implements Consumer<Integer> {

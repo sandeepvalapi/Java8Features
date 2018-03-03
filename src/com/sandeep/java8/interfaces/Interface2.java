@@ -1,4 +1,4 @@
-package com.sandeep.java8;
+package com.sandeep.java8.interfaces;
 
 @FunctionalInterface
 public interface Interface2 {
