@@ -1,4 +1,4 @@
-package com.sandeep.java8;
+package com.sandeep.java8.loops;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
