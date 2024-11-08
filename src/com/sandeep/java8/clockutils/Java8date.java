@@ -4,6 +4,24 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.time.ZoneId;
 
+/**
+ * The Java8date class demonstrates various ways to work with dates using the java.time package introduced in Java 8.
+ * It includes examples of getting the current date, creating specific dates, handling time zones, and working with epoch days.
+ * 
+ * <p>Examples include:</p>
+ * <ul>
+ *   <li>Getting the current date</li>
+ *   <li>Creating a LocalDate with specific year, month, and day</li>
+ *   <li>Handling invalid date inputs</li>
+ *   <li>Getting the current date in a specific time zone</li>
+ *   <li>Creating a date from the epoch day</li>
+ *   <li>Creating a date from the day of the year</li>
+ * </ul>
+ * 
+ * <p>Note: Some examples are commented out to demonstrate potential exceptions.</p>
+ * 
+ * @author Sandeep
+ */
 public class Java8date {
 
 	public static void main(String[] args) {
